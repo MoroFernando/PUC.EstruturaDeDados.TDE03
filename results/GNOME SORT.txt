@@ -25,6 +25,11 @@ GnomeSorter - 1000 elementos
 -> Total de trocas: 250187
 -> Total de iterações: 501375
 
+GnomeSorter MÉDIAS:
+-> Tempo de execução: 2.0 milissegundos
+-> Total de trocas: 252044,6
+-> Total de iterações: 505090,2
+
 GNOME 10000 ----------------------------------------------------------------------------------
 
 GnomeSorter - 10000 elementos
@@ -51,6 +56,11 @@ GnomeSorter - 10000 elementos
 -> Tempo de execução: 62.0 milissegundos
 -> Total de trocas: 25132689
 -> Total de iterações: 50275379
+
+GnomeSorter MÉDIAS:
+-> Tempo de execução: 47.6 milissegundos
+-> Total de trocas: 24910660,8
+-> Total de iterações: 49831322,6
 
 GNOME 100000 ----------------------------------------------------------------------------------
 
@@ -79,6 +89,11 @@ GnomeSorter - 100000 elementos
 -> Total de trocas: 2502774738
 -> Total de iterações: 5005649477
 
+GnomeSorter MÉDIAS:
+-> Tempo de execução: 5.864,8 milissegundos
+-> Total de trocas: 2098913456,76
+-> Total de iterações: 4997148227,8
+
 GNOME 500000 ----------------------------------------------------------------------------------
 
 GnomeSorter - 500000 elementos
@@ -87,7 +102,7 @@ GnomeSorter - 500000 elementos
 -> Total de iterações: 125049781607
 
 GnomeSorter - 500000 elementos
--> Tempo de execução: 147264.0 milissegundos
+-> Tempo de execução: 147098.0 milissegundos
 -> Total de trocas: 62504221631
 -> Total de iterações: 125008943263
 
@@ -105,6 +120,11 @@ GnomeSorter - 500000 elementos
 -> Tempo de execução: 147092.0 milissegundos
 -> Total de trocas: 62398062207
 -> Total de iterações: 124796624415
+
+GnomeSorter MÉDIAS:
+-> Tempo de execução: 147.344,6 milissegundos
+-> Total de trocas: 62504741626,6
+-> Total de iterações: 125009983254,2
 
 GNOME 1000000 ----------------------------------------------------------------------------------
 
@@ -132,3 +152,8 @@ GnomeSorter - 1000000 elementos
 -> Tempo de execução: 588118.0 milissegundos
 -> Total de trocas: 250164139458
 -> Total de iterações: 500329278917
+
+GnomeSorter MÉDIAS:
+-> Tempo de execução: 588.193,4 milissegundos
+-> Total de trocas: 250029799060,8
+-> Total de iterações: 500060598122,6

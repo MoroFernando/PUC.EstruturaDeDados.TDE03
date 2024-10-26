@@ -25,6 +25,11 @@ QuickSorter - 1000 elementos
 -> Total de trocas: 2568
 -> Total de iterações: 2850
 
+QuickSorter MÉDIAS:
+-> Tempo de execução: 0.4 milissegundos
+-> Total de trocas: 2576,4
+-> Total de iterações: 2858
+
 QUICK SORT 10000 ----------------------------------------------------------------------------------
 
 QuickSorter - 10000 elementos
@@ -51,6 +56,12 @@ QuickSorter - 10000 elementos
 -> Tempo de execução: 1.0 milissegundos
 -> Total de trocas: 33716
 -> Total de iterações: 36584
+
+
+QuickSorter MÉDIAS:
+-> Tempo de execução: 0,8 milissegundos
+-> Total de trocas: 33651,8
+-> Total de iterações: 36545
 
 QUICK SORT 100000 ----------------------------------------------------------------------------------
 
@@ -79,6 +90,11 @@ QuickSorter - 100000 elementos
 -> Total de trocas: 411812
 -> Total de iterações: 440401
 
+QuickSorter MÉDIAS:
+-> Tempo de execução: 7,2 milissegundos
+-> Total de trocas: 412461
+-> Total de iterações: 441031,4
+
 QUICK SORT 500000 ----------------------------------------------------------------------------------
 
 QuickSorter - 500000 elementos
@@ -106,6 +122,11 @@ QuickSorter - 500000 elementos
 -> Total de trocas: 2338640
 -> Total de iterações: 2481875
 
+QuickSorter MÉDIAS:
+-> Tempo de execução: 42,4 milissegundos
+-> Total de trocas: 2333132,6
+-> Total de iterações: 2476136,6
+
 QUICK SORT 1000000 ----------------------------------------------------------------------------------
 
 QuickSorter - 1000000 elementos
@@ -132,3 +153,8 @@ QuickSorter - 1000000 elementos
 -> Tempo de execução: 86.0 milissegundos
 -> Total de trocas: 4833560
 -> Total de iterações: 5118857
+
+QuickSorter MÉDIAS:
+-> Tempo de execução: 86,4 milissegundos
+-> Total de trocas: 4872887
+-> Total de iterações: 5158606,2
