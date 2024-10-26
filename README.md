@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo avaliar o desempenho dos algoritmos de ordenação Quick Sort e Radix Sort. A avaliação será feita com base nos seguintes critérios:
+Este projeto tem como objetivo avaliar o desempenho de alguns algoritmos de ordenação. A avaliação será feita com base nos seguintes critérios:
 
 1. **Tempo de execução**
 2. **Número de trocas**
