@@ -26,4 +26,12 @@ public class NumbersArray {
   public void print(){
     System.out.println(Arrays.toString(this.array));
   }
+
+  public int[] array(){
+    return this.array;
+  }
+
+  public int length(){
+    return this.array.length;
+  }
 }
