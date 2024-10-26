@@ -1,0 +1,134 @@
+GNOME 1000 ----------------------------------------------------------------------------------
+
+GnomeSorter - 1000 elementos
+-> Tempo de execução: 4.0 milissegundos
+-> Total de trocas: 255162
+-> Total de iterações: 511325
+
+GnomeSorter - 1000 elementos
+-> Tempo de execução: 5.0 milissegundos
+-> Total de trocas: 251406
+-> Total de iterações: 503813
+
+GnomeSorter - 1000 elementos
+-> Tempo de execução: 0.0 milissegundos
+-> Total de trocas: 249427
+-> Total de iterações: 499855
+
+GnomeSorter - 1000 elementos
+-> Tempo de execução: 0.0 milissegundos
+-> Total de trocas: 254041
+-> Total de iterações: 509083
+
+GnomeSorter - 1000 elementos
+-> Tempo de execução: 1.0 milissegundos
+-> Total de trocas: 250187
+-> Total de iterações: 501375
+
+GNOME 10000 ----------------------------------------------------------------------------------
+
+GnomeSorter - 10000 elementos
+-> Tempo de execução: 59.0 milissegundos
+-> Total de trocas: 24868301
+-> Total de iterações: 49746603
+
+GnomeSorter - 10000 elementos
+-> Tempo de execução: 58.0 milissegundos
+-> Total de trocas: 24868905
+-> Total de iterações: 49747811
+
+GnomeSorter - 10000 elementos
+-> Tempo de execução: 58.0 milissegundos
+-> Total de trocas: 24953732
+-> Total de iterações: 49917465
+
+GnomeSorter - 10000 elementos
+-> Tempo de execução: 59.0 milissegundos
+-> Total de trocas: 24729677
+-> Total de iterações: 49469355
+
+GnomeSorter - 10000 elementos
+-> Tempo de execução: 62.0 milissegundos
+-> Total de trocas: 25132689
+-> Total de iterações: 50275379
+
+GNOME 100000 ----------------------------------------------------------------------------------
+
+GnomeSorter - 100000 elementos
+-> Tempo de execução: 5942.0 milissegundos
+-> Total de trocas: 2497566604
+-> Total de iterações: 4995233209
+
+GnomeSorter - 100000 elementos
+-> Tempo de execução: 5838.0 milissegundos
+-> Total de trocas: 2493870728
+-> Total de iterações: 4987841457
+
+GnomeSorter - 100000 elementos
+-> Tempo de execução: 5844.0 milissegundos
+-> Total de trocas: 2497968316
+-> Total de iterações: 4996036633
+
+GnomeSorter - 100000 elementos
+-> Tempo de execução: 5837.0 milissegundos
+-> Total de trocas: 2500440181
+-> Total de iterações: 5000980363
+
+GnomeSorter - 100000 elementos
+-> Tempo de execução: 5863.0 milissegundos
+-> Total de trocas: 2502774738
+-> Total de iterações: 5005649477
+
+GNOME 500000 ----------------------------------------------------------------------------------
+
+GnomeSorter - 500000 elementos
+-> Tempo de execução: 147098.0 milissegundos
+-> Total de trocas: 62524640803
+-> Total de iterações: 125049781607
+
+GnomeSorter - 500000 elementos
+-> Tempo de execução: 147264.0 milissegundos
+-> Total de trocas: 62504221631
+-> Total de iterações: 125008943263
+
+GnomeSorter - 500000 elementos
+-> Tempo de execução: 147594.0 milissegundos
+-> Total de trocas: 62553630775
+-> Total de iterações: 125107761551
+
+GnomeSorter - 500000 elementos
+-> Tempo de execução: 147841.0 milissegundos
+-> Total de trocas: 62543152717
+-> Total de iterações: 125086805435
+
+GnomeSorter - 500000 elementos
+-> Tempo de execução: 147092.0 milissegundos
+-> Total de trocas: 62398062207
+-> Total de iterações: 124796624415
+
+GNOME 1000000 ----------------------------------------------------------------------------------
+
+GnomeSorter - 1000000 elementos
+-> Tempo de execução: 588045.0 milissegundos
+-> Total de trocas: 249883815467
+-> Total de iterações: 499768630935
+
+GnomeSorter - 1000000 elementos
+-> Tempo de execução: 589312.0 milissegundos
+-> Total de trocas: 250216657730
+-> Total de iterações: 500434315461
+
+GnomeSorter - 1000000 elementos
+-> Tempo de execução: 587273.0 milissegundos
+-> Total de trocas: 249840053238
+-> Total de iterações: 499681106477
+
+GnomeSorter - 1000000 elementos
+-> Tempo de execução: 588219.0 milissegundos
+-> Total de trocas: 250044329411
+-> Total de iterações: 500089658823
+
+GnomeSorter - 1000000 elementos
+-> Tempo de execução: 588118.0 milissegundos
+-> Total de trocas: 250164139458
+-> Total de iterações: 500329278917

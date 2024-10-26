@@ -1,0 +1,134 @@
+QUICK SORT 1000 ----------------------------------------------------------------------------------
+
+QuickSorter - 1000 elementos
+-> Tempo de execução: 0.0 milissegundos
+-> Total de trocas: 2568
+-> Total de iterações: 2850
+
+QuickSorter - 1000 elementos
+-> Tempo de execução: 1.0 milissegundos
+-> Total de trocas: 2611
+-> Total de iterações: 2884
+
+QuickSorter - 1000 elementos
+-> Tempo de execução: 1.0 milissegundos
+-> Total de trocas: 2533
+-> Total de iterações: 2811
+
+QuickSorter - 1000 elementos
+-> Tempo de execução: 1.0 milissegundos
+-> Total de trocas: 2602
+-> Total de iterações: 2895
+
+QuickSorter - 1000 elementos
+-> Tempo de execução: 0.0 milissegundos
+-> Total de trocas: 2568
+-> Total de iterações: 2850
+
+QUICK SORT 10000 ----------------------------------------------------------------------------------
+
+QuickSorter - 10000 elementos
+-> Tempo de execução: 1.0 milissegundos
+-> Total de trocas: 33716
+-> Total de iterações: 36584
+
+QuickSorter - 10000 elementos
+-> Tempo de execução: 1.0 milissegundos
+-> Total de trocas: 33741
+-> Total de iterações: 36639
+
+QuickSorter - 10000 elementos
+-> Tempo de execução: 1.0 milissegundos
+-> Total de trocas: 33546
+-> Total de iterações: 36473
+
+QuickSorter - 10000 elementos
+-> Tempo de execução: 0.0 milissegundos
+-> Total de trocas: 33540
+-> Total de iterações: 36445
+
+QuickSorter - 10000 elementos
+-> Tempo de execução: 1.0 milissegundos
+-> Total de trocas: 33716
+-> Total de iterações: 36584
+
+QUICK SORT 100000 ----------------------------------------------------------------------------------
+
+QuickSorter - 100000 elementos
+-> Tempo de execução: 7.0 milissegundos
+-> Total de trocas: 411812
+-> Total de iterações: 440401
+
+QuickSorter - 100000 elementos
+-> Tempo de execução: 7.0 milissegundos
+-> Total de trocas: 408799
+-> Total de iterações: 437248
+
+QuickSorter - 100000 elementos
+-> Tempo de execução: 8.0 milissegundos
+-> Total de trocas: 413409
+-> Total de iterações: 442109
+
+QuickSorter - 100000 elementos
+-> Tempo de execução: 7.0 milissegundos
+-> Total de trocas: 416473
+-> Total de iterações: 444998
+
+QuickSorter - 100000 elementos
+-> Tempo de execução: 7.0 milissegundos
+-> Total de trocas: 411812
+-> Total de iterações: 440401
+
+QUICK SORT 500000 ----------------------------------------------------------------------------------
+
+QuickSorter - 500000 elementos
+-> Tempo de execução: 43.0 milissegundos
+-> Total de trocas: 2338640
+-> Total de iterações: 2481875
+
+QuickSorter - 500000 elementos
+-> Tempo de execução: 41.0 milissegundos
+-> Total de trocas: 2329536
+-> Total de iterações: 2471956
+
+QuickSorter - 500000 elementos
+-> Tempo de execução: 41.0 milissegundos
+-> Total de trocas: 2344862
+-> Total de iterações: 2488148
+
+QuickSorter - 500000 elementos
+-> Tempo de execução: 43.0 milissegundos
+-> Total de trocas: 2313985
+-> Total de iterações: 2456829
+
+QuickSorter - 500000 elementos
+-> Tempo de execução: 44.0 milissegundos
+-> Total de trocas: 2338640
+-> Total de iterações: 2481875
+
+QUICK SORT 1000000 ----------------------------------------------------------------------------------
+
+QuickSorter - 1000000 elementos
+-> Tempo de execução: 87.0 milissegundos
+-> Total de trocas: 4893101
+-> Total de iterações: 5179634
+
+QuickSorter - 1000000 elementos
+-> Tempo de execução: 86.0 milissegundos
+-> Total de trocas: 4861539
+-> Total de iterações: 5147684
+
+QuickSorter - 1000000 elementos
+-> Tempo de execução: 87.0 milissegundos
+-> Total de trocas: 4912477
+-> Total de iterações: 5197637
+
+QuickSorter - 1000000 elementos
+-> Tempo de execução: 86.0 milissegundos
+-> Total de trocas: 4863758
+-> Total de iterações: 5149219
+
+QuickSorter - 1000000 elementos
+-> Tempo de execução: 86.0 milissegundos
+-> Total de trocas: 4833560
+-> Total de iterações: 5118857

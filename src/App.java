@@ -52,17 +52,7 @@ public class App {
       quickSort.run(R4_1000);
       quickSort.run(R5_1000);
 
-      quickSort.run(R2_1000);
-      quickSort.run(R3_1000);
-      quickSort.run(R4_1000);
-      quickSort.run(R5_1000);
-
       quickSort.run(R1_10000);
-      quickSort.run(R2_10000);
-      quickSort.run(R3_10000);
-      quickSort.run(R4_10000);
-      quickSort.run(R5_10000);
-
       quickSort.run(R2_10000);
       quickSort.run(R3_10000);
       quickSort.run(R4_10000);
@@ -74,17 +64,7 @@ public class App {
       quickSort.run(R4_100000);
       quickSort.run(R5_100000);
 
-      quickSort.run(R3_100000);
-      quickSort.run(R2_100000);
-      quickSort.run(R4_100000);
-      quickSort.run(R5_100000);
-
       quickSort.run(R1_500000);
-      quickSort.run(R2_500000);
-      quickSort.run(R3_500000);
-      quickSort.run(R4_500000);
-      quickSort.run(R5_500000);
-
       quickSort.run(R2_500000);
       quickSort.run(R3_500000);
       quickSort.run(R4_500000);
