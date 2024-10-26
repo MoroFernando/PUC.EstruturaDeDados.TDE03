@@ -1,29 +1,14 @@
-import utils.TimeCalculator;
-
-public class QuickSorter {
-  private TimeCalculator timer;
-  private double duration;
-  private int swaps;
-  private int iterations;
-
+public class QuickSorter extends Sorter{
   public QuickSorter(){
-    this.duration = 0;
-    this.swaps = 0;
-    this.iterations = 0;
-    this.timer = new TimeCalculator();
+    super();
   }
 
-  public void sort(NumbersArray numbersArray) {
-    this.timer.start();
-
-    int[] arr = numbersArray.array();
-    sort(arr, 0, arr.length - 1);
-
-    this.duration = this.timer.stop();
-    this.printMetrics(arr.length - 1);
+  @Override
+  protected void sort(int[] arr) {
+    sortRecrsive(arr, 0, arr.length - 1);
   }
 
-  private void sort(int[] arr, int left, int right) {
+  private void sortRecrsive(int[] arr, int left, int right) {
     if (left >= right) return;
 
     int middle = (left + right) / 2;
@@ -54,19 +39,11 @@ public class QuickSorter {
     }
 
     if (left < current_right) { 
-      sort(arr, left, current_right);
+      sortRecrsive(arr, left, current_right);
     } 
 
     if (current_left < right) {
-      sort(arr, current_left, right);
+      sortRecrsive(arr, current_left, right);
     }
-  }
-
-  private void printMetrics(int arrLength){
-    System.out.println("QUICK SORT - " + arrLength + " elementos");
-    System.out.println("-> Tempo de execução: " + this.duration + " milisegundos");
-    System.out.println("-> Total de trocas: " + this.swaps);
-    System.out.println("-> Total de iterações: " + this.iterations);
-    System.out.println("");
   }
 }
