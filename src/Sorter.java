@@ -3,8 +3,8 @@ import utils.TimeCalculator;
 public abstract class Sorter {
   protected TimeCalculator timer;
   protected double duration;
-  protected int swaps;
-  protected int iterations;
+  protected long swaps;
+  protected long iterations;
 
   public Sorter() {
     this.timer = new TimeCalculator();
