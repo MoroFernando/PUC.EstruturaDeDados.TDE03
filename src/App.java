@@ -47,56 +47,60 @@ public class App {
       
       // Rodagens do QUICK SORT #################################################################
       quickSort.run(R1_1000);
-      quickSort.run(R1_10000);
-      quickSort.run(R1_100000);
-      quickSort.run(R1_500000);
-      quickSort.run(R1_1000000);
       quickSort.run(R2_1000);
-      quickSort.run(R2_10000);
-      quickSort.run(R2_100000);
-      quickSort.run(R2_500000);
-      quickSort.run(R2_1000000);
       quickSort.run(R3_1000);
-      quickSort.run(R3_10000);
-      quickSort.run(R3_100000);
-      quickSort.run(R3_500000);
-      quickSort.run(R3_1000000);
       quickSort.run(R4_1000);
-      quickSort.run(R4_10000);
-      quickSort.run(R4_100000);
-      quickSort.run(R4_500000);
-      quickSort.run(R4_1000000);
       quickSort.run(R5_1000);
+
+      quickSort.run(R1_10000);
+      quickSort.run(R2_10000);
+      quickSort.run(R3_10000);
+      quickSort.run(R4_10000);
       quickSort.run(R5_10000);
+
+      quickSort.run(R1_100000);
+      quickSort.run(R3_100000);
+      quickSort.run(R2_100000);
+      quickSort.run(R4_100000);
       quickSort.run(R5_100000);
+
+      quickSort.run(R1_500000);
+      quickSort.run(R2_500000);
+      quickSort.run(R3_500000);
+      quickSort.run(R4_500000);
       quickSort.run(R5_500000);
+
+      quickSort.run(R1_1000000);
+      quickSort.run(R2_1000000);
+      quickSort.run(R3_1000000);
+      quickSort.run(R4_1000000);
       quickSort.run(R5_1000000);
 
       // Rodagens do GNOME SORTER #################################################################
       gnomeSorter.run(R1_1000);
-      gnomeSorter.run(R1_10000);
-      gnomeSorter.run(R1_100000);
-      gnomeSorter.run(R1_500000);
-      gnomeSorter.run(R1_1000000);
       gnomeSorter.run(R2_1000);
-      gnomeSorter.run(R2_10000);
-      gnomeSorter.run(R2_100000);
-      gnomeSorter.run(R2_500000);
-      gnomeSorter.run(R2_1000000);
       gnomeSorter.run(R3_1000);
-      gnomeSorter.run(R3_10000);
-      gnomeSorter.run(R3_100000);
-      gnomeSorter.run(R3_500000);
-      gnomeSorter.run(R3_1000000);
       gnomeSorter.run(R4_1000);
-      gnomeSorter.run(R4_10000);
-      gnomeSorter.run(R4_100000);
-      gnomeSorter.run(R4_500000);
-      gnomeSorter.run(R4_1000000);
       gnomeSorter.run(R5_1000);
+      gnomeSorter.run(R1_10000);
+      gnomeSorter.run(R2_10000);
+      gnomeSorter.run(R3_10000);
+      gnomeSorter.run(R4_10000);
       gnomeSorter.run(R5_10000);
+      gnomeSorter.run(R1_100000);
+      gnomeSorter.run(R3_100000);
+      gnomeSorter.run(R2_100000);
+      gnomeSorter.run(R4_100000);
       gnomeSorter.run(R5_100000);
+      gnomeSorter.run(R1_500000);
+      gnomeSorter.run(R2_500000);
+      gnomeSorter.run(R3_500000);
+      gnomeSorter.run(R4_500000);
       gnomeSorter.run(R5_500000);
+      gnomeSorter.run(R1_1000000);
+      gnomeSorter.run(R2_1000000);
+      gnomeSorter.run(R3_1000000);
+      gnomeSorter.run(R4_1000000);
       gnomeSorter.run(R5_1000000);
     }
 }
